@@ -1,5 +1,5 @@
 # Project_on_Springboot
-Project-Title: Online Product Ordering and Cancelling
+Project-Title: Online Product Ordering and Cancelling.
 Roles: 1)I Created product service and performed CRUD operations.2)Craeted order service and performed CRUD operations.
 Description: This project is to palce the Order and Cancel the order from the Order table which is linked with product table.
 Project Structure: Created a SpringBoot project with restAPI's and Microservices,which contains Entity layer,Controller layer,Service layer and Repository layer for Product and order.
